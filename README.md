@@ -23,7 +23,6 @@ I’m a passionate **Full-Stack Spring/React Developer**
 ## 🔥 What I Do
 - 🌱 I build **Java Backends**  
 - ⚛️ I design modern front-ends with **ReactJs**  
-- 🗄️ I love **World Wide Web** 
 - 🐳 I containerize apps using **Docker**  
 - ☁️ I deploy on **AWS**  
 - 📦 I optimize pipelines with **CI/CD**
